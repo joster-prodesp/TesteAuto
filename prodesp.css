@@ -407,9 +407,6 @@ nav ul a:hover {
 .suite-end-time {
 	padding-left: 0 !important;
 }
-div .card.suite-total-time-overall  {
-    	background: #2F81A9;
-}
 .suite-start-time .card {
 	border-bottom-right-radius: 0;
 	border-top-right-radius: 0;
