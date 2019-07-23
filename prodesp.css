@@ -375,6 +375,10 @@ nav ul a:hover {
 }
 
 /* -- [ dashboard ] -- */
+#dashboard-view .time-totals .col.l2.m4.s12 {
+    background: #2F81A9;
+}
+
 #dashboard-view > .col > .card-panel {
     bottom: 0;
     position: fixed;
