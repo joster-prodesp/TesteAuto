@@ -375,8 +375,8 @@ nav ul a:hover {
 }
 
 /* -- [ dashboard ] -- */
-#dashboard-view.card  .suite-total-time-overall {
-	background: #2F81A9;
+.card.suite-total-time-overall {
+    background: #2F81A9;
 }
 #dashboard-view > .col > .card-panel {
     bottom: 0;
