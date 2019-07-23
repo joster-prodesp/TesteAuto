@@ -1,2 +1,2 @@
 # TesteAuto
-Testes Automatizados
+Scripts de Testes Automatizados
