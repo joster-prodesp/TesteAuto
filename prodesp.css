@@ -18,6 +18,10 @@ span.test-time-taken.label.blue-grey.lighten-3.text-white {
 /*
 	ExtentReports
 */
+span.test-time-taken.label.blue-grey.lighten-3.text-white {
+    background-color: #2f81a9 !important;
+}
+
 body {
 	background: #eceff5;
 	font-family: 'Source Sans Pro', Arial;
