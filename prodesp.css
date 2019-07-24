@@ -928,7 +928,7 @@ nav ul a:hover {
         border-color: #888;
         color: #aaa;
     }
-    .dark .label.outline {
+    .dark .label .outline {
 	background: #transparent !important;
     }
 	/* -- [ accents ] -- */
