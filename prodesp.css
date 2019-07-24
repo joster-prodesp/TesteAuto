@@ -928,9 +928,6 @@ nav ul a:hover {
         border-color: #888;
         color: #aaa;
     }
-    .dark .label .outline {
-	background: #transparent !important;
-    }
 	/* -- [ accents ] -- */
 	.card.pink-accent {
 		background: #f96868 !important;
