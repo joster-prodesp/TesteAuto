@@ -1,5 +1,5 @@
 /*!
- * Versão 1.4
+ * Versão 2.1
  * Materialize v0.97.5 (http://materializecss.com)
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
@@ -295,7 +295,9 @@ nav, nav .nav-wrapper i, nav a.button-collapse, .logo a, nav label {
 	background: #1A231E;
 	color: #fff;
 	height: 48px;
-	line-height: 46px;
+	line-height: 44px;
+	border-bottom-style: ridge;
+	border-bottom-color: #2f81a9;
 }
 nav i {
     font-size: 12px !important;
@@ -334,7 +336,7 @@ nav ul a:hover {
     /* -- [ logo ] -- */
     .logo-container {
         z-index:2000; 
-        width:120px; 
+        width:0px; 
         position:absolute; 
         top:0px; left:0px; 
         text-align:center; 
