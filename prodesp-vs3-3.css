@@ -1,5 +1,5 @@
 /*!
- * Versão 3.2
+ * Versão 3.3
  * Materialize v0.97.5 (http://materializecss.com)
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
@@ -255,7 +255,7 @@ img.active {
 	float: left;
 	min-width: 10%;
 	max-width: 80%;
-	width: 27%;
+	width: 30%;
 	margin: 0px 0px 0px 3px;
 	resize: horizontal;
 	background-color: white;
@@ -582,7 +582,7 @@ nav ul a:hover {
     font-size: .8rem;
 }
 .test-name {
-	width: 72% !important;
+	width: 78% !important;
 }
 .test-name, .category-name {
 	display: inline-block;
