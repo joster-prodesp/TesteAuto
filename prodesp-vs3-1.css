@@ -1,5 +1,5 @@
 /*!
- * Versão 2.4
+ * Versão 3.1
  * Materialize v0.97.5 (http://materializecss.com)
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
@@ -38,7 +38,8 @@ pre {
 }
 img {
 	display: block;
-	margin-top: 15px;
+	margin-top: 1.4px;
+	margin-left: 0.5px;
 }
 th, td {
 	border-bottom: 1px solid #ddd !important;
@@ -292,6 +293,7 @@ nav {
 	padding-left: 70px;
 }
 nav, nav .nav-wrapper i, nav a.button-collapse, .logo a, nav label {
+	font-size: 16px;
 	background: #1A231E;
 	color: #fff;
 	height: 48px;
@@ -331,7 +333,7 @@ nav ul a:hover {
 }
 .report-name {
 	display: inline-block;
-	padding-left: 72px;
+	padding-left: 100px;
 }
 .report-headline {
 	padding-left: 280px;
@@ -618,6 +620,7 @@ nav ul a:hover {
 }
 .test-body table {
 	margin-top: 10px;
+	font-size: 17px;
 }
 .test-body .collapsible-body {
 	padding: 0 15px 30px;
@@ -943,6 +946,10 @@ nav ul a:hover {
 	}
 	.card.green-accent {
 		background: #53d192 !important;
+	}
+	.card.suite-total-time-overall {
+    		background: #2f81a9;
+    		color: azure;
 	}
 	
 /* -- [ media queries ] -- */
