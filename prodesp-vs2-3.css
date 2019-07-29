@@ -1,5 +1,5 @@
 /*!
- * Versão 2.2
+ * Versão 2.3
  * Materialize v0.97.5 (http://materializecss.com)
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
@@ -334,7 +334,7 @@ nav ul a:hover {
 	padding-left: 72px;
 }
 .report-headline {
-	padding-left: 250px;
+	padding-left: 280px;
 }
     /* -- [ logo ] -- */
     .logo-container {
