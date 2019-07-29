@@ -1,5 +1,5 @@
 /*!
- * Versão 2.3
+ * Versão 2.4
  * Materialize v0.97.5 (http://materializecss.com)
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
@@ -867,7 +867,7 @@ nav ul a:hover {
 	color: #ec407a;
 }
 .label.outline.info, .label.outline.other {
-	color: #46BFBD;
+	color: #2f81a9;
 }
 .label.outline.warn, .label.outline.warning {
 	color: #d88519;
