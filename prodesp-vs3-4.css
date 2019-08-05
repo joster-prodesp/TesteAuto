@@ -1,5 +1,5 @@
 /*!
- * Versão 3.3
+ * Versão 3.4
  * Materialize v0.97.5 (http://materializecss.com)
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
@@ -620,7 +620,7 @@ nav ul a:hover {
 }
 .test-body table {
 	margin-top: 10px;
-	font-size: 17px;
+	font-size: 16px;
 }
 .test-body .collapsible-body {
 	padding: 0 15px 30px;
