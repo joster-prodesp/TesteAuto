@@ -1,5 +1,5 @@
 /*!
- * Versão 3.4
+ * Versão 3.5
  * Materialize v0.97.5 (http://materializecss.com)
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
@@ -787,7 +787,7 @@ nav ul a:hover {
 	color: #22a1c4;
 } 
 .status.skip, .skip > i {
-	color: #444;
+	color: #00bcd4;
 } .skip > i { font-size: 1.2rem; }
 .status.unknown, .unknown > i {
 	color: #222;
