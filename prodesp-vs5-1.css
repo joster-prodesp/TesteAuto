@@ -1,5 +1,5 @@
 /*!
- * Versão 4.4
+ * Versão 5.1
  * Materialize v0.97.5 (http://materializecss.com)
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
@@ -577,7 +577,7 @@ nav ul a:hover {
 }
 .test-info {
 	margin: 5px 0 10px;
-	margin-top: 30px;
+	margin-top: 50px;
 }
 .test-info .label {
     font-size: .8rem;
@@ -593,7 +593,8 @@ nav ul a:hover {
 	margin-bottom: 10px;
 }
 .test-steps, .cat-tests {
-	margin-top: 20px;
+	margin-top: 50px;
+	margin-top: -80px;
 }
 .collapsible-body .test-steps {
 	margin-top: 30px;
@@ -620,7 +621,7 @@ nav ul a:hover {
 	padding: 1.2rem 1rem;
 }
 .test-body table {
-	margin-top: 10px;
+	margin-top: -20px;
 	font-size: 16px;
 }
 .test-body .collapsible-body {
@@ -695,17 +696,18 @@ nav ul a:hover {
 	}
     .step-filters {
         font-size: 1.1rem;
-		 margin-top: 13px;
+		 margin-top: 33px;
     }
 
 	/* -- [ test-attributes ] -- */
 	.categories, .authors, .classnames {
 		display: inline-block;
+		margin-left: 300px;
 	}
 	span.author, span.category, span.classname {
 		border: 1px solid transparent;
 		border-radius: 4px;
-		font-size: 12px;
+		font-size: 20px;
 		font-weight: 600;
 		padding: 3px 6px;
 	}
